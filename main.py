@@ -1,6 +1,5 @@
 ## Imports
 # regex for advanced string matching
-
 import re
 
 ## Global variables
